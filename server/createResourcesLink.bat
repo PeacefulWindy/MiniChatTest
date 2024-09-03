@@ -1,0 +1,1 @@
+mklink /d /j bin\Windows\Debug\Resources ..\..\..\Resources
